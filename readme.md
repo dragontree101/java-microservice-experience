@@ -20,6 +20,14 @@
 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
 很多场景我可能没有涉及到，所以你可以对其他一些场景进行补充说明。
 
+### 讨论方式
+有兴趣进行讨论交流和学习
+
+- [issues](https://github.com/dragontree101/java-microservice-experience/issues)
+- qq群: 743226681
+- 微信群
+
+欢迎大家加入讨论
 
 
 ## 问题
